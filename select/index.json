@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Ransom",
+  "base_artist": "Lil Tecca",
+  "createdAt": "2026-01-13T19:20:33.742495Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ransom",
+      "artist": "Lil Tecca",
+      "has_synced": true,
+      "path": "select/01_Ransom_Lil_Tecca.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ransom (with Juice WRLD) - Remix",
+      "artist": "Lil Tecca feat. Juice WRLD",
+      "has_synced": true,
+      "path": "select/02_Ransom_(with_Juice_WRLD)_-_Remix_Lil_Tecca_feat._Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ransom (Remix)",
+      "artist": "Lil Tecca & Juice WRLD",
+      "has_synced": true,
+      "path": "select/03_Ransom_(Remix)_Lil_Tecca_&_Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ransom",
+      "artist": "A Boogie wit da Hoodie",
+      "has_synced": true,
+      "path": "select/04_Ransom_A_Boogie_wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ransom (feat. 6LACK & Kehlani)",
+      "artist": "SAINt JHN feat. 6LACK & Kehlani",
+      "has_synced": true,
+      "path": "select/05_Ransom_(feat._6LACK_&_Kehlani)_SAINt_JHN_feat._6LACK_&_Kehlani.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ransom (feat. 6LACK & Kehlani)",
+      "artist": "SAINt JHN",
+      "has_synced": true,
+      "path": "select/06_Ransom_(feat._6LACK_&_Kehlani)_SAINt_JHN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ransom",
+      "artist": "Son Lux",
+      "has_synced": true,
+      "path": "select/07_Ransom_Son_Lux.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ransom Note feat. ANOMOLIES / Graceshift interlude feat. Grace Lee Boggs",
+      "artist": "Invincible feat. ANOMOLIES / Graceshift interlude feat. Grace Lee Boggs, Invincible, Anomolies & Grace Lee Boggs",
+      "has_synced": false,
+      "path": "select/08_Ransom_Note_feat._ANOMOLIES___Graceshift_interlude_feat._Grace_Lee_Boggs_Invincible_feat._ANOMOLIES___Graceshift_interlude_feat._Grace_Lee_Boggs,_Invinci.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ransom Note (feat. Anomolies)",
+      "artist": "Invincible",
+      "has_synced": false,
+      "path": "select/09_Ransom_Note_(feat._Anomolies)_Invincible.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ransom Notes",
+      "artist": "SOHN",
+      "has_synced": true,
+      "path": "select/10_Ransom_Notes_SOHN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ransom (Remix)",
+      "artist": "Lil Tecca feat. Juice WRLD",
+      "has_synced": true,
+      "path": "select/11_Ransom_(Remix)_Lil_Tecca_feat._Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ransom (Remix)",
+      "artist": "Lil Tecca",
+      "has_synced": true,
+      "path": "select/12_Ransom_(Remix)_Lil_Tecca.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "National Ransom",
+      "artist": "Elvis Costello",
+      "has_synced": false,
+      "path": "select/13_National_Ransom_Elvis_Costello.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "National Ransom (Live)",
+      "artist": "Elvis Costello",
+      "has_synced": false,
+      "path": "select/14_National_Ransom_(Live)_Elvis_Costello.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ransom",
+      "artist": "Blink-182",
+      "has_synced": true,
+      "path": "select/15_Ransom_Blink-182.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ransom",
+      "artist": "blink‐182",
+      "has_synced": true,
+      "path": "select/16_Ransom_blink‐182.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Ransom",
+      "artist": "Cartel",
+      "has_synced": false,
+      "path": "select/17_The_Ransom_Cartel.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ransom (remix)",
+      "artist": "Lil Tecca & Juice WRLD",
+      "has_synced": true,
+      "path": "select/18_Ransom_(remix)_Lil_Tecca_&_Juice_WRLD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ransom",
+      "artist": "Lil Tecca",
+      "has_synced": false,
+      "path": "select/pl_01_Ransom_Lil_Tecca.txt"
+    }
+  ]
+}
