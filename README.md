@@ -1,0 +1,62 @@
+# Lil Tecca – Ransom
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:04.45] Turn you to a dancer
+[00:07.56] Yeah
+[00:09.61] Internet Money bitch
+[00:19.61] 
+[00:10.88] I got black, I got white, what you want?
+[00:12.77] Hop outside a Ghost and hop up in a Phantom
+[00:15.39] I know I'm 'bout to blow-oh-woah-oh, I ain't dumb
+[00:18.01] They try to take my flow, I take they ass for ransom
+[00:20.60] I know that I'm gone
+[00:30.60] 
+[00:22.02] They see me blowing up, now they say they want a song
+[00:24.49] I got two twin Glocks, turn you to a dancer
+[00:27.06] I see two twin opps, leave 'em on a banner
+[00:29.82] And I got two thick thots, wanna lick the gang, yeah
+[00:55.82] 
+[00:31.83] I got red, I got blue, what you want?
+[00:34.05] The Chanel or Balenciaga, Louis and Vuitton
+[00:36.70] She know I got the Fendi, Prada when I hit Milan
+[00:39.21] I needed me a die or rider, I need me the one
+[00:42.04] I started from the bottom, you could see the way I stunt
+[01:10.04] 
+[00:44.60] I want all the diamonds
+[00:45.94] I want that shit to weigh a ton
+[00:47.42] The opps they tryna line me
+[00:48.67] 'Cause they hate the place I'm from
+[00:50.11] But them niggas don't know me
+[00:51.13] They just know the place I'm from
+[01:07.63] 
+[00:52.82] I got lots of shawties tryna pull up to my place
+[00:55.53] But you ain't want me last year so just get up out my face
+[00:57.91] They all up in my inbox
+[00:59.34] So I know they want a taste
+[01:00.78] I know they want my downfall
+[01:02.00] Lil' nigga are you laced?
+[01:14.50] 
+[01:03.78] I got black, I got white, what you want?
+[01:06.08] Hop outside a Ghost and hop up in a Phantom
+[01:08.65] I know I'm 'bout to blow-oh-woah-oh, I ain't dumb
+[01:11.34] They try to take my flow, I take they ass for ransom
+[01:14.09] I know that I'm gone
+[01:24.09] 
+[01:15.34] They see me blowing up, now they say they want a song
+[01:17.81] I got two twin Glocks, turn you to a dancer
+[01:20.49] I see two twin opps, leave 'em on a banner
+[01:23.15] And I got two thick thots, wanna lick the gang, yeah
+[01:49.15] 
+[01:25.22] I got black, I got white, what you want?
+[01:27.32] Hop outside a Ghost and hop up in a Phantom
+[01:29.94] I know I'm 'bout to blow-oh-woah-oh, I ain't dumb
+[01:32.78] They try to take my flow, I take they ass for ransom
+[01:35.34] I know that I'm gone
+[01:45.34] 
+[01:36.58] They see me blowing up, now they say they want a song
+[01:39.14] I got two twin Glocks, turn you to a dancer
+[01:41.84] I see two twin opps, leave 'em on a banner
+[01:44.49] And I got two thick thots, wanna lick the gang, yeah
+```
